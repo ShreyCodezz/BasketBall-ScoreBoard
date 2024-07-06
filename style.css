@@ -1,0 +1,41 @@
+body {
+    background-color: #43b982;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    text-align: center;
+}
+
+.score {
+    background: #fa0019;
+    font-size: 90px;
+    color: #000000;
+    width: 120px;
+    margin: 20px;
+}
+button{
+    background-color: #000000;
+    color: #000000;
+    padding: 10px 20px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #ffffff;
+    color: #000000;
+    transition: 0.9s;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: none;
+}
+
+
+
+
